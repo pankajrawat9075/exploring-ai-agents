@@ -1,6 +1,9 @@
 # sarvam-assignment
 RAG application served with fastapi and gradio
 
+video demo (includes agent): https://drive.google.com/file/d/1Y_w4VroaaIMf4XnPLEqr5pcV98-4kzWg/view?usp=sharing
+
+## Steps to get started
 - clone the repository
   ```git clone https://github.com/pankajrawat9075/sarvam-assignment```
 - move inside "sarvam-assignment" folder
